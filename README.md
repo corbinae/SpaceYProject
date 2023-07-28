@@ -7,14 +7,16 @@ Final Project for IBM Data Science Certificate
 
 ## Module 1
 - we use a REST API to connect to info about the SpaceX launches
-- extract all the Falcon 9 launches and saved it dataset_part_1.csv
-- did additional webscrapping from wiki pages and added to dataset_part_1
+- extract all the Falcon 9 launches and saved it dataset_part_1.csv (notebook spacex-data-collection)
+- did additional webscrapping from wiki pages and added to dataset_part_1 (notebook labs-webscrapping)
 
 ## Module 2
-- worked on data wrangling to better format the data
+- worked on data wrangling to better format the data (notebook spacex-Data wrangling)
 - one hot encoded landing outcomes
 - boolean for success vs failure outcomes
+- csv dataset_part_2
 
 ## Module 3
-- sql analysis
-- data exploration on landing sites, landing outcomes, booster variables, etc.
+- sql analysis (notebook eda sql)
+    -  data exploration on landing sites, landing outcomes, booster variables, etc.
+- then did EDA via visualization - final csv dataset part 3 (notebook eda-dataviz)
