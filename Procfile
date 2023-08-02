@@ -1,0 +1,1 @@
+web: gunicorn jupyter-labs-plotly-dash-spacex.ipynb:server --workers 2
