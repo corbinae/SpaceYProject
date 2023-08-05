@@ -19,4 +19,8 @@ Final Project for IBM Data Science Certificate
 ## Module 3
 - sql analysis (notebook eda sql)
     -  data exploration on landing sites, landing outcomes, booster variables, etc.
-- then did EDA via visualization - final csv dataset part 3 (notebook eda-dataviz)
+- then did EDA via Polty dahsboard visualization - final csv dataset part 3 (notebook eda-dataviz)
+
+## Module 4
+- predictive analysis and evaluation using logistic regression, SVM, KNN and Decision Tree
+- hyperparameter optimization and best model performance via Precision, Recall, F1-Score, Jaccard Index, and Log Loss
